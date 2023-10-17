@@ -143,7 +143,13 @@ figcaption {
 
 .steps {
     list-style-type: decimal;
+    padding: 60px;
+    
+}
 
+.recipe-desc {
+    text-align: center;
+    padding: 60px;
 }
 
 .recipe-info {
@@ -203,6 +209,7 @@ figcaption {
     }
 
     video:hover {
+
     }
 
     
