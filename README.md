@@ -1,2 +1,1 @@
-# mobile-view
-si339 mobile view project
+# emaheshwari.github.io
